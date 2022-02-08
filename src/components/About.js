@@ -29,7 +29,7 @@ export default function About(props){
                     </h2>
                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample" style = {{backgroundColor:props.mode === 'dark' ? '#323643' : 'white', color:props.mode === 'dark' ? 'white' : '#323643'}}>
                         <div className="accordion-body">
-                            <strong>TestUtils</strong>is a free character counter tool that provides instant character count and word count statistics for a given tex. TextUtils reports the number of the words nad the characters. Thus it is suitable for writing text with word/character limit. 
+                            <strong>TestUtils</strong> is a free character counter tool that provides instant character count and word count statistics for a given tex. TextUtils reports the number of the words nad the characters. Thus it is suitable for writing text with word/character limit. 
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@ export default function About(props){
                     </h2>
                     <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample" style = {{backgroundColor:props.mode === 'dark' ? '#323643' : 'white', color:props.mode === 'dark' ? 'white' : '#323643'}}>
                     <div className="accordion-body">
-                        <strong>TextUtils</strong>word couter software works in any web browsers such as Chrome, Firefox, Internet Explorer, Safari, Opera, Brave, etc. this software suits to count character in FaceBook, blog, books, excel doc, PDF doc, essays, etc.
+                        <strong>TextUtils</strong> word couter software works in any web browsers such as Chrome, Firefox, Internet Explorer, Safari, Opera, Brave, etc. this software suits to count character in FaceBook, blog, books, excel doc, PDF doc, essays, etc.
                     </div>
                 </div>
             </div>
