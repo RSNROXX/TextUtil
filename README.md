@@ -1,3 +1,6 @@
+# TestUtils - Word Counter | Character Counter
+TextUtils is a word counter and a character counting utility which can be used to manipulate you text in the way you want. has functions like all caps lock mode, all lower case mode, copy the written text,1st letter caps lock
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
